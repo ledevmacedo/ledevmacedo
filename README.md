@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ledevmacedo/ledevmacedo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ledevmacedo/output/snake.svg" alt="Snake animation" />
 
 ###
