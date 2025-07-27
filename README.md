@@ -20,7 +20,12 @@
 <img alt="Express" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img alt="NestJs" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 
+<img alt="Ethers" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Ethers-4C47FF?style=flat-square&logo=ethereum&logoColor=white" />
+<img alt="Wagmi" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Wagmi-1A202C?style=flat-square&logo=web3dotjs&logoColor=white" />
+<img alt="RainbowKit" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-RainbowKit-EC4899?style=flat-square&logo=rainbow&logoColor=white" />
+
 <img alt="MongoDB" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="PostgreSQL" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 
 <img alt="Docker" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Github Actions" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -61,7 +66,7 @@ _Description:_ In this project, I focused on maintenance to keep it operational.
 
 
 <h3>📬 Contact</h3>
-<a href="https://www.linkedin.com/in/ledevmacedo" target="_blank" style="margin-right: 10px;">
+<a href="https://www.linkedin.com/in/devmacedo/" target="_blank" style="margin-right: 10px;">
   <img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif?1692024077" width="25" />
 </a>
 <a href="mailto:leandro.smacedo@live.com" target="_blank">
