@@ -41,7 +41,6 @@
 
 I'm currently exploring the new features of Next.js 15, studying Rust to deepen my understanding of low-level and high-performance systems, and focusing on GitHub Actions to automate workflows. I'm also planning to start writing technical posts about specific tools and features I've been working with, and contributing to open source projects whenever I can.
 
-
 <h3>💼Projects I've worked on</h3>
 
 **Cyber Boilerplate** - TigerCyber Labs  
@@ -58,4 +57,17 @@ _Description:_ A smaller, simpler application that contains all the necessary te
 
 **MegaMaker** - TigerCyber Labs  
 _Technologies:_ `NextJS 13, Typescript, ReactBootstrap, StyledComponents, CSS, Ethers, Redux, IndexedDB`  
-_Description:_ In this project, I focused on maintenance to keep it operational. It is a complex project with various performance issues and uses multiple styling technologies that cause problems which worsen as the project scales. My goal was to reduce memory consumption to mitigate issues while new features were introduced, until it was possible to rebuild it in a more organized and optimized way.  
+_Description:_ In this project, I focused on maintenance to keep it operational. It is a complex project with various performance issues and uses multiple styling technologies that cause problems which worsen as the project scales. My goal was to reduce memory consumption to mitigate issues while new features were introduced, until it was possible to rebuild it in a more organized and optimized way.
+
+
+<h3>📬 Contact</h3>
+<a href="https://www.linkedin.com/in/ledevmacedo" target="_blank" style="margin-right: 10px;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1692024077/67489/linkedinlogo.gif?1692024077" width="25" />
+</a>
+<a href="mailto:leandro.smacedo@live.com" target="_blank">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514128/870/mail.gif?1643514128" width="20" />
+</a>
+<a href="https://www.devmacedo.pt" target="_blank">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643515593/16128/computer.gif?1643515593" width="20" />
+</a>
+
