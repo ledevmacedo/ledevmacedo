@@ -10,6 +10,7 @@
 
 <img alt="React" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Redux" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="TanStack Query" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
 <img alt="Next.js" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="Vite" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 <img alt="TailwindCSS" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -38,6 +39,7 @@
 <img alt="Git" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Insomnia" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+<img alt="Scalar" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Scalar-000000?style=flat-square&logo=scalar&logoColor=white" />
 <img alt="Figma" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img alt="Brave Browser" height="30" style="border-radius:4px" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 </p>
